@@ -13,4 +13,5 @@ var addCoffee = function (name) {
 addCoffee("에스프레소")()
   .then(addCoffee("아메리카노"))
   .then(addCoffee("카페모카"))
-  .then(addCoffee("카메라떼"));
+  .then(addCoffee("카메라떼"))
+  .then(addCoffee("말차라떼"));
