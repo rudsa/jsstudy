@@ -17,4 +17,3 @@ var coffeeGenerator = function* () {
 
 var coffeeMaker = coffeeGenerator();
 coffeeMaker.next();
-console.log("test");
